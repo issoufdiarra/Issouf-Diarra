@@ -1,2 +1,1 @@
-# Issouf-Diarra
-Portfolio monteur vidéo
+# Portfolio — Issouf DiarraPortfolio statique en HTML/CSS, prêt pour GitHub Pages.## Publication gratuite1. Créer un dépôt GitHub (par exemple `portfolio`).2. Importer `index.html` et `style.css`.3. Aller dans Settings → Pages.4. Choisir `Deploy from a branch`, branche `main`, dossier `/root`.5. Enregistrer.Le site sera accessible via une adresse GitHub Pages.## Personnalisation- Remplacer/ajouter les captures d'écran dans `images/`.- Ajouter un CV PDF et un lien dans la section correspondante.- Ajouter LinkedIn/GitHub dans la section Contact.
